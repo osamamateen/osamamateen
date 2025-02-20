@@ -1,4 +1,4 @@
-Hi 👋🏻 My name is Osama Mateen
+Hi, I’m Osama! 👋🏻
 =============================
 
 Full stack Engineer 👨🏻‍💻
