@@ -1,7 +1,7 @@
-Hi, I’m Osama! 👋🏻
+Osama Mateen
 =============================
 
-Full stack Engineer 👨🏻‍💻
+Senior Software Engineer
 ----------------------
 
 I am a Full stack engineer skilled in leadership with a strong foundation in programming logic. Experienced in designing and implementing low latency, high performant, scalable applications. Hands on experience in building backend servers, microservices and REST APIs as well as frontends using modern UI frameworks. Passionate about software development and cloud native computing.
